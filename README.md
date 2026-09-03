@@ -2,7 +2,11 @@
 
 **When there isn't enough time to do everything.**
 
-LastMinute is a deadline triage engine. Add your deadline, usable work time, and everything you think needs doing. It calculates whether the workload can actually fit, protects a buffer, triages work into **Must / Reduce / Defer / Kill**, and builds a realistic rescue timeline.
+[**Open the Live Demo →**](https://fawazfff.github.io/Last-minute/)
+
+**Live demo:** https://fawazfff.github.io/Last-minute/
+
+LastMinute helps you when you have too much work to do and not enough time to finish everything. Add your deadline, the time you can actually work, and everything you want to get done. LastMinute checks what really fits, then helps you decide what you **Must**, **Reduce**, **Defer**, or **Kill** so you still have a realistic path to the deadline.
 
 ## Why it exists
 
@@ -40,6 +44,8 @@ npm run check
 ## Demo
 
 Use **Try an example** on the homepage. The seeded demo intentionally contains more than eight hours of desired work against five hours of availability. LastMinute triages it into a viable plan.
+
+Or open the deployed app directly: https://fawazfff.github.io/Last-minute/
 
 ## Privacy
 
