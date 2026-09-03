@@ -1,0 +1,10 @@
+{
+  "name":"LastMinute",
+  "short_name":"LastMinute",
+  "description":"Deadline triage for when there isn't enough time to do everything.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f6f3ea",
+  "theme_color":"#f6f3ea",
+  "icons":[]
+}
