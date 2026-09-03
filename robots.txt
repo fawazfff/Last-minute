@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fawazfff.github.io/Last-minute/sitemap.xml
