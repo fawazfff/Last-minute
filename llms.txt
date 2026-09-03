@@ -1,0 +1,14 @@
+# LastMinute
+
+LastMinute is a deadline triage web application that helps users decide what work must be completed, reduced, deferred or dropped when remaining workload exceeds available time.
+
+Core features:
+- Reality Check
+- Minimum Viable Finish
+- Must / Reduce / Defer / Kill triage
+- Rescue Plan timeline
+- Focus Mode
+- Live replanning
+- Deterministic capacity calculations
+
+Website: https://fawazfff.github.io/Last-minute/
